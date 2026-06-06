@@ -1,61 +1,7 @@
-# **CanSat 2021**
+# CanSat Project 2021
 
-## Cose ancora da fare:
+This repository contains the source code, documentation, and technical resources developed for a CanSat project for the ESERO Italia CanSat competition.
 
-- Andrea Berta: 
-    - Collegare alle porte per leggere i dati
+The project focuses on the design and development of a miniaturized satellite system integrated inside a soda-can-sized structure. The CanSat is designed to be launched, collect mission data during descent, and support post-flight analysis through sensors, embedded electronics, telemetry, and data processing.
 
-- Cristian Alasotto:
-    - Sistemare posizionamento componenti
-
-- Angelo Voicu: 
-    
-- Matteo Orefice: 
-    - Finito
- 
-
-
-
-
-
-## Proprietà da misurare
-
-- temperatura
-
-- atterraggio area definita
-
-- pressione dell'aria
-
-- tracciamento gps
-
-## Obiettivi
-
-- Creare un app web per monitorare i dati raccolti
-
-- Mappare l'inquinamento ad ogni altitudine (Pm10-Pm25)
-
-- Monitorare i raggi UV
-
-- Misurare la massima la minima e la media di pm10 per ogni altezza
-
-- monitorare l'altezza er la velocità massima
-
-- misurare il tempo di salita e di discesa
-
-- misurare oscillazione
-
-- (monitoraggio parametri ambientali) valutare dimensioni sensore
-
-## **Sensori**
-
-- termometro
-
-- barometro
-
-- sensore pm10-pm25
-
-- gps
-
-- altimetro
-
-- sensore raggi UV
+The main goal of the project is to combine aerospace education, embedded systems, electronics, programming, and scientific experimentation in a practical STEAM learning experience.
